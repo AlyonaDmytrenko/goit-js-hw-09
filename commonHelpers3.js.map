@@ -1,1 +1,1 @@
-{"version":3,"file":"commonHelpers3.js","sources":[],"sourcesContent":[],"names":[],"mappings":""}
+{"version":3,"file":"commonHelpers3.js","sources":["../src/js/1-gallery.js"],"sourcesContent":["const user = 10;\nconsole.log(user);\n"],"names":["user"],"mappings":"ssBAAA,MAAMA,EAAO,GACb,QAAQ,IAAIA,CAAI"}
